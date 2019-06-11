@@ -11,8 +11,8 @@ $translations = array(
     'Conquérir le monde',
   'Play' =>
     'Jouer',
-  'Welcome to the Facebook Capture the Flag Competition. By clicking "Play," you will be entered into the official CTF challenge. Good luck in your conquest.' =>
-    'Bienvenue dans la compétition Capture the Flag de Facebook. En cliquant sur « Jouer », vous serez inscrit au CTF officiel. Bonne chance dans votre conquête.',
+  'Welcome to the CLHACK Capture the Flag Competition. By clicking "Play," you will be entered into the official CTF challenge. Good luck in your conquest.' =>
+    'Bienvenue dans la compétition Capture the Flag de CLHACK. En cliquant sur « Jouer », vous serez inscrit au CTF officiel. Bonne chance dans votre conquête.',
   'Get ready for the CTF to start and access the gameboard now!' =>
     'Préparez-vous pour le CTF. Lancez-vous et accédez au jeu maintenant !',
   'Gameboard' =>
@@ -36,7 +36,7 @@ $translations = array(
   '_seconds' =>
     '_secondes',
   'Official CTF Rules' =>
-    'Règles officielles de la capture de drapeau',
+    'Règles officielles du CTF',
   'Following actions are prohibited, unless explicitly told otherwise by event Admins.' =>
     'Les actions suivantes sont interdites, sauf par indication contraire de la part des administrateurs de l\'événement',
   'Rule' =>
@@ -44,31 +44,31 @@ $translations = array(
   'Cooperation' =>
     'Coopération',
   'No cooperation between teams with independent accounts. Sharing of keys or providing revealing hints to other teams is cheating, don’t do it.' =>
-    'Aucune coopération entre les équipes avec des comptes indépendants. Partager des clés ou  fournir des indices à d\'autres équipes est considéré comme de la triche, merci de ne pas le faire.',
+    'Toute coopération entre participants irait à l’encontre de l’esprit du CTF. Partager les FLAGS ou fournir des indices à d\'autres est considéré comme de la triche, merci de ne pas le faire !',
   'Attacking Scoreboard' =>
-    'Attaques ciblant le tableau d’affichage',
+    'Attaques contre l\'infrastructure',
   'No attacking the competition infrastructure. If bugs or vulns are found, please alert the competition organizers immediately.' =>
-    'N\'attaquez pas l\'infrastructure de la compétition. Si des bugs ou vulnérabilités sont trouvés, merci d\'alerter immédiatement les organisateurs de la compétition.',
+    'Les seules attaques informatiques à réaliser sont celles proposées dans les challenges ! Il vous est donc demandé de ne pas attaquer l\'infrastructure du CTF. Si des bugs ou vulnérabilités sont trouvés, merci d\'alerter immédiatement les organisateurs de la compétition.', 
   'Sabotage' =>
     'Sabotage',
   'Absolutely no sabotaging of other competing teams, or in any way hindering their independent progress.' =>
-    'Il est interdit d\'effectuer une action entravant l\'avancé d\'une autre équipe.',
+    'Soyez fair-play… n’effectuez pas d’action ayant pour but d’entraver l\'avancée d\'un autre participant.',
   'Bruteforcing' =>
-    'Force brute',
+    'Brute force',
   'No brute forcing of challenge flag/ keys against the scoring site.' =>
-    'Aucun brute force envers le système de validation des épreuves / clés',
+    'Le système de validation des challenges aime la douceur… Pour gagner une épreuve, insérez votre réponse dans le champ de validation, n’essayez pas de l’attaquer par brute-force.',
   'Denial Of Service' =>
     'Déni de service',
   'DoSing the CTF platform or any of the challenges is forbidden.' =>
-    'Il est interdit de DDOS la plateforme ou une épreuve.',
+    'Pour que tous puissent profiter du CTF, encore faut-il que la plateforme reste disponible... Merci de ne pas la DDOS !',
   'Legal' =>
     'Légal',
   'Disclaimer' =>
     'Avertissement',
   'By participating in the contest, you agree to release Facebook and its employees, and the hosting organization from any and all liability, claims or actions of any kind whatsoever for injuries, damages or losses to persons and property which may be sustained in connection with the contest. You acknowledge and agree that Facebook et al is not responsible for technical, hardware or software failures, or other errors or problems which may occur in connection with the contest.' =>
-    'En participant au concours, vous acceptez de libérer Facebook et ses employés, et l\'organisation d\'hébergement de toute responsabilité, réclamation ou action de quelque nature que ce soit pour des blessures, des dommages ou des pertes pour les personnes et les biens qui peuvent être maintenus dans le cadre de la concours. Vous reconnaissez et acceptez que Facebook et al ne peut être tenu responsable pour toute défaillance à caractère technique, matériel ou logiciel, ou pour d’autres erreurs ou problèmes qui peuvent se produire dans le cadre du concours.',
+    'La plateforme du CTF a été développée par Facebook et est proposée en opensource. Elle est donc utilisable librement. En participant à ce CTF, vous acceptez de libérer Facebook et ses employés, et l\'organisation d\'hébergement de toute responsabilité, réclamation ou action de quelque nature que ce soit pour des blessures, des dommages ou des pertes pour les personnes et les biens qui peuvent être maintenus dans le cadre du concours. Vous reconnaissez et acceptez que Facebook ne peut être tenu responsable pour toute défaillance à caractère technique, matériel ou logiciel, ou pour d’autres erreurs ou problèmes qui peuvent se produire dans le cadre du CTF.', 
   'If you have any questions about what is or is not allowed, please ask an organizer.' =>
-    'Si vous avez des questions sur ce qui est ou non autorisé, s\'il vous plaît demander à un organisateur.',
+    'Si vous avez des questions sur ce qui est ou non autorisé, l\'organisateur est là pour vous aider',
   'Have fun!' =>
     'Amusez-vous !',
   'Name' =>
@@ -86,7 +86,7 @@ $translations = array(
   'Choose an Emblem' =>
     'Choisissez un emblème',
   'or upload your own' =>
-    'ou téléchargez votre propre',
+    'ou téléchargez le votre',
   'Clear your custom emblem to use a default emblem.' =>
     'Effacez votre emblème personnalisé pour utiliser un emblème par défaut.',
   'Sign Up' =>
@@ -94,11 +94,11 @@ $translations = array(
   'Password is too simple' =>
     'Le mot de passe est trop simple',
   'Register to play Capture The Flag here. Once you have registered, you will be logged in.' =>
-    'Inscrivez-vous ici pour jouer à la capture de drapeau. Une fois inscrit, vous serez connecté.',
+    'Inscrivez-vous ici pour jouer au CTF. Une fois inscrit, vous serez connecté.',
   'Not Available' =>
     'Indisponible',
   'Team Registration will be open soon, stay tuned!' =>
-    'Inscription de d\'équipe sera bientôt ouverte, restez à l\'écoute!',
+    'Inscription d\'équipe bientôt ouverte, restez à l\'écoute!',
   'Try Again' =>
     'Réessayer',
   'Select' =>
@@ -159,7 +159,7 @@ $translations = array(
   'Activity' =>
     'Activité',
   'Game Clock' =>
-    'Horloge de jeu',
+    'Timer',
   //Translations for AdminController
   'Auto' =>
     'Auto',
@@ -593,7 +593,7 @@ $translations = array(
   'capture_' =>
     'capture_',
   'Insert your answer' =>
-    'Insérez votre réponse',
+    'Insérez le flag au format SH19{...}',
   'Request Hint' =>
     'Demander un indice',
   'Submit' =>
@@ -633,41 +633,41 @@ $translations = array(
   'total_pts' =>
     'total_pts',
   'Tool bars are located on all edges of the gameboard. Tap a category to expand and close each tool bar.' =>
-    'Les barres d\'outils sont situés sur tous les bords du plateau. Appuyez sur une catégorie pour étendre et fermer chaque barre d\'outils.',
+    'Vous trouverez des barres d\'outils sur les bords du plateau. Appuyez sur l\'une d\'elle pour l\'étendre ou la fermer.',
   'Tool_Bars' =>
-    'Barres_Outils',
+    'Barres_D\'outils',
   'Tap the "Game Clock" to keep track of time during gameplay. Don’t let time get the best of you.' =>
-    'Appuyez sur l\' "Horloge de jeu" pour garder une vision du temps pendant le jeu. Ne laissez pas le temps vous perturber',
+    'Vous pouver consulter le timer qui indique le temps restant avant la fin du CTF. Mais ne laissez pas le temps vous perturber !',
   'Game_Clock' =>
-    'Horloge_de_jeu',
+    'Timer',
   'Countries marked with an ' =>
     'Les pays marqués d\'un ',
   'are captured by you.' =>
-    'sont capturés par vous.',
+    ' sont ceux que vous avez capturés.',
   ' are owned by others.' =>
-    ' appartiennent à d\'autres.',
+    ' ont déjà été réalisés par d\'autres joueurs.',
   'Captures' =>
     'Captures',
   'Tap Plus[+] to Zoom In. Tap Minus[-] to Zoom Out.' =>
-    'Touchez Plus [+] pour agrandir. Touchez Moins [-] pour réduire.',
+    'Cliquez sur Plus [+] pour agrandir. Cliquez sur Moins [-] pour réduire.',
   'Click and Drag to move left, right, up and down.' =>
-    'Cliquez et faites glisser pour aller à gauche, à droite, de haut en bas.',
+    'Cliquez et faites glisser pour aller à gauche, à droite, en haut ou en bas.',
   'Zoom' =>
     'Zoomer',
   'Tap Forward Slash [/] to activate computer commands. A list of commands can be found under "Rules".' =>
-    'Touchez Slash [/] pour activer les commandes informatiques. Une liste de commandes peut être trouvé sous la rubrique "Règles".',
+    'Vous pouvez activer les commandes informatiques avec la touche [/]. Une liste de commandes peut être trouvée sous la rubrique "Règles".',
   'Command_Line' =>
     'ligne_de_commande',
-  'Click "Nav" to access main navigation links like Rules of Play, Registration, Blog, Jobs & more.' =>
-    'Cliquez sur "Nav" pour accéder aux principaux liens de navigation comme règles du jeu, Inscription, Blog, Jobs et plus.',
-  'Track your competition by clicking "scorboard" to access real-time game statistics and graphs.' =>
-    'Suivez vos concurrents en cliquant sur "Tableau des scores" pour accéder à des statistiques et des graphiques de jeux en temps réel.',
+  'Click "Navigation" to access main navigation links like Rules of Play, Account Settings, and to Logout.' =>
+    'Cliquez sur "Navigation" pour accéder aux principaux liens comme les règles du jeu.',
+  'Track your competition by clicking "scoreboard" to access real-time game statistics.' =>
+    'Vous pouvez suivre l\'avancée de vos concurrents en cliquant sur le "Tableau des scores" pour accéder aux statistiques en temps réel.',
   'Have fun, be the best and conquer the world.' =>
     'Amusez-vous, soyez le meilleur et dominer le monde.',
   'Game_On' =>
     'Game_On',
   'tutorial_' =>
-    'tutorial_',
+    'Tutoriel_',
   'Next' =>
     'Suivant',
   'Skip to play' =>

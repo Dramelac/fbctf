@@ -86,8 +86,8 @@ class CountryModalController extends ModalController {
               </div>
               <form class="fb-form country-capture-form">
                 <input name="level_id" type="hidden" value="" />
-                <textarea rows={4} class="capture-text" readonly={true}>
-                </textarea>
+                <p class="capture-text">
+                </p>
                 <br />
                 <div class="capture-links"></div>
                 <br />
@@ -179,8 +179,8 @@ class CountryModalController extends ModalController {
               </div>
               <form class="fb-form country-capture-form">
                 <input name="level_id" type="hidden" value="" />
-                <textarea rows={4} class="capture-text" readonly={true}>
-                </textarea>
+                <p class="capture-text">
+                </p>
                 <br />
                 <div class="capture-links"></div>
                 <br />
@@ -271,8 +271,8 @@ class CountryModalController extends ModalController {
               </div>
               <form class="fb-form country-capture-form">
                 <input name="level_id" type="hidden" value="" />
-                <textarea rows={4} class="capture-text" readonly={true}>
-                </textarea>
+                <p class="capture-text">
+                </p>
                 <fieldset class="form-set">
                   <div class="radio-list">
                     <span class="mchoice_check"></span>
@@ -347,8 +347,8 @@ class CountryModalController extends ModalController {
               </div>
               <form class="fb-form country-capture-form">
                 <input name="level_id" type="hidden" value="" />
-                <textarea rows={4} class="capture-text" readonly={true}>
-                </textarea>
+                <p class="capture-text">
+                </p>
                 <fieldset class="form-set">
                   <div class="radio-list score-off">
                   <br />

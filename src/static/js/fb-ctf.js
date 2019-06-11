@@ -798,7 +798,7 @@ function setupInputListeners() {
           $('.country-name', $container).text(country);
           $('.country-title', $container).text(title);
           $('input[name=level_id]', $container).attr('value', level_id);
-          $('.capture-text', $container).text(intro);
+          $('.capture-text', $container).html(intro);
           $('.points-number', $container).text(points);
           $('.country-type', $container).text(type);
           $('.country-category', $container).text(category);
@@ -973,7 +973,7 @@ function setupInputListeners() {
           $('.country-name', $container).text(country);
           $('.country-title', $container).text(title);
           $('input[name=level_id]', $container).attr('value', level_id);
-          $('.capture-text', $container).text(intro);
+          $('.capture-text', $container).html(intro);
           if (attachments instanceof Array) {
             $.each(attachments, function() {
               var filename = this['filename'];
