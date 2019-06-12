@@ -9,7 +9,7 @@ class :custombranding extends :x:element {
   protected function render(): XHPRoot {
     return
       <span class="branding-el">
-        <img class="icon-badge" src={$this->:brandingLogo} />
+        <img class="icon-badge" src="/static/img/globe.png" />
         <br />
         <span class="icon-text">{$this->:brandingText}</span>
       </span>;
